@@ -6,9 +6,9 @@
 #include <Base64.h>
 #include <ThingerESP32.h>
 
-#define USERNAME "jovando003"
-#define DEVICE_ID "ESP32"
-#define DEVICE_CREDENTIAL "DYCDE2024"
+#define USERNAME ""
+#define DEVICE_ID ""
+#define DEVICE_CREDENTIAL ""
 
 ThingerESP32 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 
@@ -22,17 +22,17 @@ ThingerESP32 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 #define RO 1.81 // Resistencia en aire limpio (calculada)
 
 // Credenciales Wi-Fi
-const char* ssid = "TIGO-DCAB";
-const char* password = "4G79ED803039";
+const char* ssid = "";
+const char* password = "";
 
 // Credenciales Twilio
-const char* twilioAccountSID = "ACcff295a33814ab4a5fa13af89ab07d4a";
-const char* twilioAuthToken = "a1fd06131a63d7c4fe26ad05f3a3cf01";
+const char* twilioAccountSID = "";
+const char* twilioAuthToken = "";
 const char* fromNumber = "whatsapp:14155238886";
 
 // Lista de números de teléfono
 const char* toNumbers[] = {
-  "whatsapp:50233820925"
+  "whatsapp:"
 };
 const int numNumbers = sizeof(toNumbers) / sizeof(toNumbers[0]);
 
