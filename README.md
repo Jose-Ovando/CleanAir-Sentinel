@@ -36,3 +36,17 @@ Este proyecto es un dispositivo de Internet de las Cosas (IoT) diseñado y ensam
 - **Acceso Remoto**: Monitoreo en tiempo real desde cualquier dispositivo con acceso a internet.
 - **Notificaciones Inmediatas**: Alertas a través de WhatsApp aseguran que los usuarios estén informados rápidamente.
 - **Diseño Local**: Desarrollado y ensamblado en Guatemala, adaptado a las necesidades locales y utilizando componentes accesibles.
+
+## Imágenes del Proyecto
+
+A continuación, se presentan imágenes del dispositivo y del sistema en funcionamiento:
+
+- **PCB**
+  
+  ![Dispositivo IoT para detección de gas](Images/PCB_Front.png)
+  ![Dispositivo IoT para detección de gas](Images/PCB_Back.png)
+
+- **Encapsulado**
+
+  ![Encapsulado](Images/case.png)
+
