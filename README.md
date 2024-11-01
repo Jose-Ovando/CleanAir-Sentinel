@@ -42,11 +42,15 @@ Este proyecto es un dispositivo de Internet de las Cosas (IoT) diseñado y ensam
 A continuación, se presentan imágenes del dispositivo y del sistema en funcionamiento:
 
 - **PCB**
-  
-  ![Dispositivo IoT para detección de gas](Images/PCB_Front.png)
-  ![Dispositivo IoT para detección de gas](Images/PCB_Back.png)
+  <img src="Images/PCB_Front.png" alt="Parte frontal de la PCB" width="250"/>
+  <img src="Images/PCB_Back.png" alt="Parte trasera de la PCB" width="250"/>
 
 - **Encapsulado**
+  <img src="Images/case.png" alt="Encapsulado" width="250"/>
 
-  ![Encapsulado](Images/case.png)
+## Contacto e Información Adicional
 
+Para más información sobre el proyecto o cualquier consulta, puedes contactarme a través de:
+
+- **Correo Electrónico**: (mailto:jose.ovando@galileo.edu)
+- **Video del funcionamiento**: (https://drive.google.com/file/d/15rmEYENk3Vo4_Iy1xjndv2ysT-Hsc_QC/view?usp=sharing)
