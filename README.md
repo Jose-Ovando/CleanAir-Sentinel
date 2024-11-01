@@ -52,5 +52,5 @@ A continuación, se presentan imágenes del dispositivo y del sistema en funcion
 
 Para más información sobre el proyecto o cualquier consulta, puedes contactarme a través de:
 
-- **Correo Electrónico**: (mailto:jose.ovando@galileo.edu)
+- **Correo Electrónico**: (jose.ovando@galileo.edu)
 - **Video del funcionamiento**: (https://drive.google.com/file/d/15rmEYENk3Vo4_Iy1xjndv2ysT-Hsc_QC/view?usp=sharing)
