@@ -54,7 +54,7 @@ A continuación, se presentan imágenes del dispositivo y del sistema en funcion
   - **Software License**: GNU General Public License Version 3.0
   - **Documentation License**: CC BY 4.0 International
 
- <img src="Images/oshw_factspng" witdh="100">
+ <img src="Images/oshw_facts.png" witdh="100">
 
 ## Contacto e Información Adicional
 
