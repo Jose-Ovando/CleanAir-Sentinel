@@ -60,7 +60,7 @@ A continuación, se presentan imágenes del dispositivo y del sistema en funcion
 
   -**[OSH] GT000018 | Certified open source hardware |** https://certification.oshwa.org/list.html
 
-  -<img src="Images/oshw_certification.png" width="100">
+  -<img src="Images/oshw_certification.png" width="200">
 
 ## Contacto e Información Adicional
 
