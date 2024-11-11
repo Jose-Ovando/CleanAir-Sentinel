@@ -56,6 +56,12 @@ A continuación, se presentan imágenes del dispositivo y del sistema en funcion
 
   - <img src="Images/oshw_facts.png" witdh="100">
 
+  ## Certificación
+
+  -**[OSH] GT000018 | Certified open source hardware |** https://certification.oshwa.org/list.html
+
+  -<img src="Images/oshw_certification.png" width="100">
+
 ## Contacto e Información Adicional
 
 Para más información sobre el proyecto o cualquier consulta, puedes contactarme a través de:
