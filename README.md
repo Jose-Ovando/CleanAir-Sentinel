@@ -48,6 +48,14 @@ A continuación, se presentan imágenes del dispositivo y del sistema en funcion
 - **Encapsulado**
   <img src="Images/case.png" alt="Encapsulado" width="250"/>
 
+  ## Licencias
+
+  - **Hardware License**: CERN Open Hardware License Version 2
+  - **Software License**: GNU General Public License Version 3.0
+  - **Documentation License**: CC BY 4.0 International
+
+ <img src="Images/oshw_factspng" witdh="100">
+
 ## Contacto e Información Adicional
 
 Para más información sobre el proyecto o cualquier consulta, puedes contactarme a través de:
